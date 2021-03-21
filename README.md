@@ -4,7 +4,7 @@ This exercise is part of the QA training program by Accademia Accenture and Gama
 
 ## Goals 🎯
 
-Create a method to validate a user ID and make sure it passes all the tests based on TDD and BDD.
+Create an application to validate a user ID and make sure it passes all the tests based on TDD and BDD.
 
 ## Technologies 👩🏽‍💻
 
